@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/razel-galbraith/razel-CP02/issues"
   },
-  "homepage": "https://github.com/razel-galbraith/razel-CP02#readme"
+  "homepage": "https://github.com/razel-galbraith/razel-CP02#readme",
+  "dependencies": {
+    "yodasay": "^1.1.9"
+  }
 }
