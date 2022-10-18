@@ -1,0 +1,23 @@
+{
+  "name": "razel-cp02",
+  "version": "1.0.0",
+  "description": "Razel Galbraith razel.blaza@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razel-galbraith/razel-CP02.git"
+  },
+  "keywords": [
+    "razel",
+    "cp02"
+  ],
+  "author": "Razel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razel-galbraith/razel-CP02/issues"
+  },
+  "homepage": "https://github.com/razel-galbraith/razel-CP02#readme"
+}
